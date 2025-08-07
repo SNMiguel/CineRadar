@@ -32,7 +32,7 @@ The following REQUIRED files are included:
 
 The following EXTRA features are implemented:
 
-- x ] Custom styling with imported fonts
+- [x] Custom styling with imported fonts
 - [ ] Splash screen with app logo
 - [x] RecyclerView item click opens detailed movie view
 - [x] Error handling for no internet/API failure
@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/4GwzM0R.gif' title='Video Demo' width='' alt='Video Demo' />
 
 VIDEO created with **ScreenToGif** (replace with your tool)
 
