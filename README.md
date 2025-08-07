@@ -95,7 +95,7 @@
 - Designed using XML layout and consistent theme across the app  
 
 **Milestone 2 Build Demo:**  
-- ![🎥 Add Video/GIF Here](https://imgur.com/a/ijFtxXL.gif)
+- [🎥 Add Video/GIF Here](https://imgur.com/a/ijFtxXL.gif)
 
 ## License
 
