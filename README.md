@@ -72,7 +72,7 @@
 ## Wireframes
 
 <!-- Replace the URL below with your actual uploaded image URL -->
-[img]https://i.imgur.com/b72jzer.gif[/img]
+![img]https://i.imgur.com/b72jzer.gif[/img]
 
 ### [BONUS] Digital Wireframes & Mockups
 
