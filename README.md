@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/4GwzM0R.gif' title='Video Demo' width='' alt='Video Demo' />
+https://imgur.com/a/4GwzM0R.gif
 
 VIDEO created with **ScreenToGif** (replace with your tool)
 
