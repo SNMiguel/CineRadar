@@ -19,7 +19,7 @@ CineRadar is a lightweight, native Android application built in Kotlin. Type a m
 - [How It Works](#-how-it-works)
 - [Roadmap](#-roadmap)
 - [Known Limitations](#-known-limitations)
-- [Team](#-team)
+- [Author](#-author)
 - [Acknowledgements](#-acknowledgements)
 - [License](#-license)
 
@@ -31,7 +31,7 @@ CineRadar solves a simple problem: **finding information about a movie quickly w
 
 The app is intentionally focused. It does one thing well — **search** — and presents the results with a clean, cinematic feel using custom fonts and a dark, theatre-inspired theme. Under the hood it demonstrates the core building blocks of a modern Android app: REST networking, JSON parsing, asynchronous callbacks, image loading and caching, and efficient list rendering with a `RecyclerView`.
 
-**Why we built it:** as a team project, CineRadar gave each of us hands-on experience integrating a third-party API, structuring an app into clean, single-responsibility classes, and handling the realities of network programming — loading states, failures, and offline conditions.
+**Why I built it:** CineRadar was a solo project that gave me hands-on experience integrating a third-party API, structuring an app into clean, single-responsibility classes, and handling the realities of network programming — loading states, failures, and offline conditions.
 
 ---
 
@@ -245,14 +245,9 @@ Planned / potential enhancements:
 
 ---
 
-## 👥 Team
+## 👤 Author
 
-Built by the CineRadar team for AND101 – Milestone 2 (20+ hours total):
-
-- **Miguel Shema Ngabonziza**
-- **Zablon Geletu**
-- **John Nti Anokye**
-- **Vensen Sibanda**
+Designed and built entirely by **Miguel Shema Ngabonziza** for AND101 – Milestone 2 (20+ hours total). Every part of CineRadar — the TMDB API integration, networking layer, UI, and styling — was implemented solo.
 
 ---
 
