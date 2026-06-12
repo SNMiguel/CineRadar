@@ -2,7 +2,7 @@
 
 > A movie discovery app for Android that lets you search and explore films in real time, powered by [The Movie Database (TMDB)](https://www.themoviedb.org/) API.
 
-CineRadar is a lightweight, native Android application built in Kotlin. Type a movie title and CineRadar instantly fetches matching results from TMDB, displaying each film's poster, title, and overview in a smooth, scrollable list. It was created as part of **AND101 – Mobile App Development (Milestone 2)**.
+CineRadar is a lightweight, native Android application built in Kotlin. Type a movie title and CineRadar instantly fetches matching results from TMDB, displaying each film's poster, title, and overview in a smooth, scrollable list. It was created as part of my CodePath training.
 
 ---
 
